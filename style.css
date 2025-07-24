@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins';
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #f2d860, #f2db77, #f1de8d, #f0e0a3, #efe3b8);
+    height: 100vh;
+    width: 100%;
+}
+.app{
+    background-color: #ffffff;
+    width: 70vh;
+    border: none;
+    border-radius: 10px;
+    padding: 20px 25px;
+}
+.app> h2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 27px;
+    font-weight: 500;
+}
+.app h2 img{
+    width: 40px;
+}
+.addbox{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 244, 244);
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.addbox input{
+    flex: 1;
+    background-color: rgb(245, 244, 244);
+    border: none;
+    outline: none;
+    
+}
+.addbox button{
+    border: none;
+    outline: none;
+    background-color: #f2db77;
+    padding: 15px 23px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.uncheck{
+    list-style: none;
+    padding-left: 70px;
+    padding-right: 10px;
+    cursor: pointer;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+ul li img{
+    width: 25px;
+    height: 25px;
+    margin-top: 7px;
+}
+li{
+    background-color: rgba(245, 245, 245,0.4);
+    border-radius: 10px;
+}
