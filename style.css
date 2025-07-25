@@ -76,4 +76,13 @@ li{
     .app{
         width: 280px;
     }
+     .addbox input{
+        width: 200px;
+    }
+    .addbox button{
+        position: relative;
+        left: -100px;
+        bottom: -50px;
+        margin-bottom: 20px;
+    }
 }
