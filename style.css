@@ -74,6 +74,6 @@ li{
 }
 @media screen and (max-width :430px){
     .app{
-        width: 380px;
+        width: 330px;
     }
 }
