@@ -32,15 +32,18 @@
 .addbox{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(245, 244, 244);
     border-radius: 10px;
     padding-left: 15px;
     margin-top: 25px;
     margin-bottom: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
 }
 .addbox input{
     flex: 1;
     background-color: rgb(245, 244, 244);
+    padding-left: 10px;
+    border-radius: 10px;
     border: none;
     outline: none;
     
@@ -72,15 +75,4 @@ li{
     border-radius: 10px;
     margin-top: 10px;
 }
-@media screen and (max-width :430px){
-    .app{
-        width: 300px;
-    }
-    .addbox button{
-        position :relative;
-        left: -100px;
-    }
-        
-    
-   
-}
+
