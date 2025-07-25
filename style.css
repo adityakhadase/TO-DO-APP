@@ -81,8 +81,8 @@ li{
     }
     .addbox button{
         position: relative;
-        left: -100px;
-        bottom: -50px;
+        left: -120px;
+        bottom: -80px;
         margin-bottom: 20px;
     }
 }
