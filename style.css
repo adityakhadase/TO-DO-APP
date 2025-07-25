@@ -80,7 +80,17 @@ li{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 5px;
+    }
+    .addbox{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .addbox input{
+        padding: 15px 5px;
+    }
+    .addbox input::placeholder{
+        padding: 35%;
     }
 }
 
