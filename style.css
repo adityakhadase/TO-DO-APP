@@ -79,10 +79,5 @@ li{
      .addbox input{
         width: 200px;
     }
-    .addbox button{
-        position: relative;
-        left: 10px;
-        bottom: -30px;
-        margin-bottom: 20px;
-    }
+   
 }
