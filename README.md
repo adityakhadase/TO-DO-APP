@@ -42,3 +42,5 @@ The UI features a modern gradient background, a central task card, and minimalis
 ## 🧑‍💻 Author
 **Aditya**  
 Built with curiosity and passion for learning. Always exploring new tech, one mini-project at a time!
+<img width="2871" height="1527" alt="Screenshot 2025-07-24 192334" src="https://github.com/user-attachments/assets/5d17f9be-37ac-4161-9992-9644451d8d94" />
+
