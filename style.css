@@ -76,6 +76,11 @@ li{
     .app{
         width: 300px;
     }
+    .addbox button{
+        position :relative;
+        left: -100px;
+    }
+        
     
    
 }
